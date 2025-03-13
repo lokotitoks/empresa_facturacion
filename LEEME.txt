@@ -1,0 +1,10 @@
+# Versión de PHP: 8.1.31
+# version phpMyAdmin 5.2.1
+
+1. Descargar repositorio y  Link
+2. Montar base de datos en mysql o phpmyadmin (dbname: compumun_pruebatec1.sql)
+3. Crear usuario, password la bd y dar todos los privilegios al usuario  (user: compumun_pruebatec1, pass: compumun_pruebatec1)
+4. Abrir navegador con la ruta del index del proyecto (url: /dominio/app/view/index.php)
+5. y listo.
+
+# VER /dominio/app/model/conn.php como creedenciales de referencia
