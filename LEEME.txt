@@ -8,3 +8,4 @@
 5. y listo.
 
 # VER /dominio/app/model/conn.php como creedenciales de referencia
+# VER demo https://pymesapp.cl/pruebas/view/index.php
