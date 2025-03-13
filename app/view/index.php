@@ -27,13 +27,13 @@
                     <div>
                         <label for="bodega">Bodega</label>
                         <select id="bodega" name="bodega" onchange="changeBodega(this.value)">
-                            <option value="">Seleccione una bodega</option>
+                            <option value=""></option>
                         </select>
                     </div>
                     <div>
                         <label for="sucursal">Sucursal</label>
                         <select id="sucursal" name="sucursal">
-                            <option value="">Seleccione una sucursal</option>
+                            <option value=""></option>
                         </select>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                     <div>
                         <label for="moneda">Moneda</label>
                         <select id="moneda" name="moneda">
-                            <option value="">Seleccione una moneda</option>
+                            <option value=""></option>
                         </select>
                     </div>
                     <div>
